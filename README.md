@@ -114,5 +114,3 @@ This project demonstrates how a virus can spread in a population using *Queue-ba
 👉 Check out the GitHub repo: [https://github.com/your-username/virus-spread-simulator](https://github.com/your-username/virus-spread-simulator)
 #Java #OOP #DataStructures #ComputerOrganization #ProbabilityAndStatistics #Epidemiology #StudentProject\
 * *Statistics calculation & console output*
-
-Do you want me to do that next?
